@@ -1,10 +1,10 @@
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
+- Apr 29 [分かりやすい文章を書くために、私が意識していること](https://zenn.dev/miya_akari/articles/03094bfb4b2833)
 - Apr 2 [過去の私に伝えたい、Java Silverの勉強法](https://zenn.dev/miya_akari/articles/830c6ba8805a64)
 - Feb 25 [【Java】配列についてまとめた](https://zenn.dev/miya_akari/articles/8f03bda9313e55)
 - Feb 20 [【Java】varを使った変数宣言](https://zenn.dev/miya_akari/articles/6b7af10df142eb)
 - Feb 13 [【Java】継承とオーバーライド](https://zenn.dev/miya_akari/articles/21387880393fb2)
-- Feb 11 [【Java】コンストラクタ](https://zenn.dev/miya_akari/articles/bdcf90b497ee69)
 <!-- profile updater end: zenn -->
 
 ## 【connpass】最近参加したイベント

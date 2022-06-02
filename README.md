@@ -9,9 +9,9 @@
 
 ## 【connpass】最近参加したイベント
 <!-- profile updater begin: connpass -->
+- Jun 11 [IT業界という選択肢を当たり前に（デモ）](https://sister.connpass.com/event/250031/)
 - May 28 [【大阪・IT】ココカラ勉強会 No.9](https://kokokara.connpass.com/event/247641/)
 - Mar 27 [【大阪】ココカラ勉強会 No.7](https://kokokara.connpass.com/event/241575/)
 - Mar 13 [勉強カフェ大阪本町もくもく会 #25](https://brightful-study.connpass.com/event/240299/)
 - Mar 11 [第12回平日夜オンラインもくもく](https://tech-union.connpass.com/event/241755/)
-- Feb 27 [【ホメ参加枠あり】とにかくほめる！マウントなしのLT会](https://tonihome.connpass.com/event/238183/)
 <!-- profile updater end: connpass -->

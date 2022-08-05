@@ -1,10 +1,10 @@
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
+- Aug 4 [【JavaScript】typeof演算子の使い方](https://zenn.dev/miya_akari/articles/0e892503056c69)
 - Aug 3 [【JavaScript】データ型についてまとめた](https://zenn.dev/miya_akari/articles/a1e47f94997b19)
 - Jul 25 [【JavaScript】配列とオブジェクトの違い](https://zenn.dev/miya_akari/articles/3e6c909d98aeea)
 - Jul 22 [【Java】例外についてちょっとまとめた](https://zenn.dev/miya_akari/articles/cbfd5cc6d72518)
 - Apr 29 [分かりやすい文章を書くために、私が意識していること](https://zenn.dev/miya_akari/articles/03094bfb4b2833)
-- Apr 2 [過去の私に伝えたい、Java Silverの勉強法](https://zenn.dev/miya_akari/articles/830c6ba8805a64)
 <!-- profile updater end: zenn -->
 
 ## 【connpass】最近参加したイベント

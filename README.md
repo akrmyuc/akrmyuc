@@ -9,9 +9,9 @@
 
 ## 【connpass】最近参加したイベント
 <!-- profile updater begin: connpass -->
+- Oct 29 [【IT系・LT会&交流会】ココカラ勉強会 No.14 @大阪](https://kokokara.connpass.com/event/262504/)
 - Oct 23 [オフラインもくもく会(関西女性エンジニア限定)#3](https://tech-woman-kansai.connpass.com/event/262143/)
 - Sep 25 [オフラインもくもく会(関西女性エンジニア限定)#2](https://connpass.com/event/258589/)
 - Sep 17 [TECH PLAY女子部 x Code Polarisコラボ！コミュニティを知って居場所を広げよう☆](https://code-polaris.connpass.com/event/257722/)
 - Sep 3 [オンライントークイベント #デザイナーコミュニティ](https://design-girls.connpass.com/event/257028/)
-- Aug 7 [オフラインもくもく会(関西女性エンジニア限定)#1](https://tech-woman-kansai.connpass.com/event/253897/)
 <!-- profile updater end: connpass -->

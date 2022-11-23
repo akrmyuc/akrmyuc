@@ -1,3 +1,7 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
 - Sep 20 [【JavaScript】mapとfilterについてまとめた](https://zenn.dev/miya_akari/articles/54e176453f9288)

@@ -1,10 +1,10 @@
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
+- Feb 22 [【LINE Messaging API × GAS】理想の彼女botを作った](https://zenn.dev/miya_akari/articles/a8a4c296e7c1c6)
 - Feb 21 [【LINE Notify × GAS】出社日だけ母親に「今日の夜ごはん何？」って聞いてくれるbotを作った](https://zenn.dev/miya_akari/articles/e4541d7ac84921)
 - Jan 16 [【JavaScript】DOMについてまとめた](https://zenn.dev/miya_akari/articles/45c0cbabb59ef1)
 - Sep 20 [【JavaScript】mapとfilterについてまとめた](https://zenn.dev/miya_akari/articles/54e176453f9288)
 - Aug 27 [【JavaScript】配列の操作](https://zenn.dev/miya_akari/articles/621de708af9eca)
-- Aug 25 [【CSS】今更だけど、セレクターの書き方についてまとめた](https://zenn.dev/miya_akari/articles/0270200f1c3f80)
 <!-- profile updater end: zenn -->
 
 ## 【connpass】最近参加したイベント

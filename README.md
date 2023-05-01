@@ -1,10 +1,10 @@
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
+- Apr 30 [【JavaScript】Dateオブジェクトのメソッドについてまとめた](https://zenn.dev/miya_akari/articles/0843b859421315)
 - Apr 23 [私がやっている、ChatGPTを使った英語学習方法とか](https://zenn.dev/miya_akari/articles/dc771c09421681)
 - Apr 22 [【JavaScript】オブジェクトの操作](https://zenn.dev/miya_akari/articles/5664bd7f4e92f6)
 - Feb 23 [【LINE Messaging API × GAS】なんでもギャルにしてくれるbotを作った💖🌈🦄💖](https://zenn.dev/miya_akari/articles/cda5e8535833a7)
 - Feb 22 [【LINE Messaging API × GAS】理想の彼女botを作った](https://zenn.dev/miya_akari/articles/a8a4c296e7c1c6)
-- Feb 21 [【LINE Notify × GAS】出社日だけ母親に「今日の夜ごはん何？」って聞いてくれるbotを作った](https://zenn.dev/miya_akari/articles/e4541d7ac84921)
 <!-- profile updater end: zenn -->
 
 ## 【connpass】最近参加したイベント

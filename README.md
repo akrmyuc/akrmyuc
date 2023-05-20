@@ -4,7 +4,7 @@
  So I'm in the process of learning English now. Thank you😊
 
 ## My skills💡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,angular,ruby,rails,sass,java,spring,php,mysql,regex,md,git,github,gitlab,vscode,linux,powershell,docker,devto,discord,ai,ps,xd,figma,twitter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,angular,ruby,rails,sass,java,spring,php,mysql,regex,md,vscode,git,github,gitlab,linux,powershell,docker,ai,ps,xd,figma,twitter,discord,devto&perline=10)](https://skillicons.dev)
 
 ## Zenn: New articles✍️
 <!-- profile updater begin: zenn -->

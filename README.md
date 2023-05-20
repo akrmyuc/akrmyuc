@@ -3,7 +3,7 @@
  I live in Japan🇯🇵 But I want to work in the US someday❤️<br>
  So I'm in the process of learning English now. Thank you😊
 
-## My Skills💡
+## My skills💡
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,angular,ruby,rails,sass,java,spring,php,mysql,regex,md,git,github,gitlab,vscode,linux,powershell,docker,devto,discord,ai,ps,xd,figma,twitter&perline=10)](https://skillicons.dev)
 
 ## Zenn: New articles✍️

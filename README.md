@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,angular,ruby,rails,sass,java,spring,php,mysql,regex,md,git,github,gitlab,vscode,linux,powershell,docker,devto,discord,ai,ps,xd,figma,twitter)](https://skillicons.dev)
+
 ## 【Zenn】新着記事
 <!-- profile updater begin: zenn -->
 - May 3 [【JavaScript】月末の日付を取得する方法](https://zenn.dev/miya_akari/articles/8f702e8c8a3094)

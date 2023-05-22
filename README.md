@@ -8,11 +8,11 @@
 
 ## Zenn: New articles ✍️
 <!-- profile updater begin: zenn -->
+- May 21 [【Web】GETとPOSTの違いとか](https://zenn.dev/miya_akari/articles/0ba19ecd916386)
+- May 21 [【Web】HTTPについてまとめた](https://zenn.dev/miya_akari/articles/67a1f9b5a27f32)
 - May 3 [【JavaScript】月末の日付を取得する方法](https://zenn.dev/miya_akari/articles/8f702e8c8a3094)
 - Apr 30 [【JavaScript】Dateオブジェクトのメソッドについてまとめた](https://zenn.dev/miya_akari/articles/0843b859421315)
 - Apr 23 [私がやっている、ChatGPTを使った英語学習方法とか](https://zenn.dev/miya_akari/articles/dc771c09421681)
-- Apr 22 [【JavaScript】オブジェクトの操作](https://zenn.dev/miya_akari/articles/5664bd7f4e92f6)
-- Feb 23 [【LINE Messaging API × GAS】なんでもギャルにしてくれるbotを作った💖🌈🦄💖](https://zenn.dev/miya_akari/articles/cda5e8535833a7)
 <!-- profile updater end: zenn -->
 
 ## connpass: Attended events 🥳

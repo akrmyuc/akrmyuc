@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Akari. I'm a software engineer👩‍💻 And I was a DTP designer for 5 years.<br>
+ I'm Akari. I work as a software engineer👩‍💻 And I was a DTP designer for 5 years.<br>
  I live in Japan🇯🇵 But I want to work in the US someday❤️<br>
  So I'm in the process of learning English now. Thank you😊
 

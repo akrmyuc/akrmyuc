@@ -8,11 +8,11 @@
 
 ## Zenn: New articles ✍️
 <!-- profile updater begin: zenn -->
+- Jul 26 [【SQL】基本構文まとめ](https://zenn.dev/miya_akari/articles/858d4c1f6408de)
 - Jul 25 [【Python】関数についてまとめた](https://zenn.dev/miya_akari/articles/6ee0f113d6efc4)
 - Jul 25 [【Python】条件分岐と繰り返し処理](https://zenn.dev/miya_akari/articles/73464786beecb9)
 - Jul 25 [【Python】変数とデータ型](https://zenn.dev/miya_akari/articles/8c82cee5f43c04)
 - May 27 [はじめての正規表現](https://zenn.dev/miya_akari/articles/eeea9851e8cb42)
-- May 21 [【Web】GETとPOSTの違いとか](https://zenn.dev/miya_akari/articles/0ba19ecd916386)
 <!-- profile updater end: zenn -->
 
 ## connpass: Attended events 🥳

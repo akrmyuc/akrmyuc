@@ -17,9 +17,9 @@
 
 ## connpass: Attended events 🥳
 <!-- profile updater begin: connpass -->
+- Nov 11 [データ利活用やってみよう！ハッカソン2023 成果発表会](https://enjoy-pda.connpass.com/event/295959/)
+- Oct 21 [【京橋】データ利活用やってみよう！ハッカソン2023 中間発表会](https://enjoy-pda.connpass.com/event/295946/)
 - Sep 9 [【京橋】データ利活用やってみよう！ハッカソン2023 チームビルディング](https://enjoy-pda.connpass.com/event/293359/)
 - Aug 26 [データ利活用やってみよう！ハッカソン2023 キックオフ](https://enjoy-pda.connpass.com/event/285236/)
 - Jan 29 [新年の抱負を語る&もくもく会(関西女性エンジニア限定)#5](https://tech-woman-kansai.connpass.com/event/270642/)
-- Dec 17 [【IT系・交流＆忘年会】第2回ココカラ忘年会 @大阪](https://kokokara.connpass.com/event/266516/)
-- Dec 11 [クリスマス勉強会(関西女性エンジニア限定)#4](https://tech-woman-kansai.connpass.com/event/266627/)
 <!-- profile updater end: connpass -->

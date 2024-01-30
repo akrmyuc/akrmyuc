@@ -8,11 +8,11 @@
 
 ## Zenn: New articles ✍️
 <!-- profile updater begin: zenn -->
+- Jan 29 [初めてKindle出版したので、調べたことをまとめた](https://zenn.dev/miya_akari/articles/446a1012874deb)
 - Jan 9 [【転職したーーい！！🥺🥺🥺】エンジニア/デザイナー向け転職サイトまとめ](https://zenn.dev/miya_akari/articles/5f442110f8da6e)
 - Jan 6 [アンガーマネジメントの本を読んだので、実践できそうなことをまとめる](https://zenn.dev/miya_akari/articles/c8c2076963d4eb)
 - Nov 13 [初めてのハッカソンで『Mileru』という病院検索アプリを作った](https://zenn.dev/miya_akari/articles/a548dda4b1e866)
 - Sep 26 [カドレコの名前とロゴについて解説するよ](https://zenn.dev/besimple/articles/3cbc261aa32870)
-- Sep 11 [初めてのハッカソンでリーダーをやることになった](https://zenn.dev/miya_akari/articles/e0211bdfc0415e)
 <!-- profile updater end: zenn -->
 
 ## connpass: Attended events 🥳

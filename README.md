@@ -8,7 +8,7 @@
 
 ## Zenn: New articles ✍️
 <!-- profile updater begin: zenn -->
-- Apr 2 [1年間英語を毎日勉強して、英語がまあまあ話せるようになった](https://zenn.dev/miya_akari/articles/6add82d2c66579)
+- Apr 2 [【有料級】1年間英語を毎日勉強して、英語がまあまあ話せるようになった話](https://zenn.dev/miya_akari/articles/6add82d2c66579)
 - Mar 31 [国内最大級の女性&ノンバイナリー向けハッカソンに参加した話](https://zenn.dev/miya_akari/articles/2ed82bbde94123)
 - Feb 22 [【TechQ】Tech×LGBTQ＋のためのコミュニティを作った](https://zenn.dev/miya_akari/articles/863027d1e2a65f)
 - Jan 29 [初めてKindle出版したので、調べたことをまとめた](https://zenn.dev/miya_akari/articles/446a1012874deb)

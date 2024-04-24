@@ -8,11 +8,11 @@
 
 ## Zenn: New articles ✍️
 <!-- profile updater begin: zenn -->
+- Apr 23 [【転職】技術質問とその回答](https://zenn.dev/miya_akari/articles/eef60d0e10f31f)
 - Apr 2 [【有料級】1年間英語を毎日勉強して、英語がまあまあ話せるようになった話](https://zenn.dev/miya_akari/articles/6add82d2c66579)
 - Mar 31 [国内最大級の女性&ノンバイナリー向けハッカソンに参加した話](https://zenn.dev/miya_akari/articles/2ed82bbde94123)
-- Feb 22 [【TechQ】Tech×LGBTQ＋のためのコミュニティを作った](https://zenn.dev/miya_akari/articles/863027d1e2a65f)
+- Feb 22 [【TechQ】Tech×LGBTQ＋のためのコミュニティを作った](https://zenn.dev/techq/articles/863027d1e2a65f)
 - Jan 29 [初めてKindle出版したので、調べたことをまとめた](https://zenn.dev/miya_akari/articles/446a1012874deb)
-- Jan 9 [【転職したーーい！！🥺🥺🥺】エンジニア/デザイナー向け転職サイトまとめ](https://zenn.dev/miya_akari/articles/5f442110f8da6e)
 <!-- profile updater end: zenn -->
 
 ## connpass: Attended events 🥳
